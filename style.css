@@ -282,7 +282,7 @@ body.opening-active {
   width: 100%;
   min-height: 100svh;
 
-  background-image: url("images/PORTADA1.png");
+  background-image: url("images/PORTADABODA1.png");
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -412,7 +412,7 @@ body.opening-active {
   justify-content: center;
   align-items: flex-end;
 
-  background-image: url("images/IMAGENGENERICA.png");
+  background-image: url("images/BODAHORA.png");
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -1832,7 +1832,7 @@ animation:photoZoom 12s ease-in-out infinite alternate;
     position:absolute;
     inset:0;
 
-    background-image:url("images/IMAGENGENERICA.png");
+    background-image:url("images/BODAFINAL.png");
 
     background-position:center;
     background-repeat:no-repeat;
